@@ -1,0 +1,178 @@
+.flipCard{
+    background-color: transparent;
+    width: 420px;
+    height: 588px;
+    perspective: 1000px;
+    cursor: pointer;
+    transition: transform 300ms ease-out;
+}
+
+.flipCard:hover{
+    transform: translateY(-10px);
+}
+
+.flipCardInner{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.flipCardInner.flip{
+  transform: rotateY(180deg);
+}
+
+
+.cardFront, .cardBack {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.cardBack{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.shirtImage{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.shirtImage img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.cardFront{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 25px;
+    transform: rotateY(-180deg);
+}
+
+.topCard{
+    width: 100%;
+    height: 56%;
+    background-image: url('../../assets/Images/topoCardPreto.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.playerImage{
+    width: 90%;
+    height: 100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.playerImage img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.playerInfo{
+    width: 100%;
+    height: 44%;
+    background-color: #1C1C1C;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 18px;
+    gap: 10px;
+}
+
+.playerName{
+    color: #fff;
+    font-size: 26px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.infoContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.year{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.position{
+    border: 1.5px solid #C29810;
+    color: #C29810;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.playerDesc{
+    width: 100%;
+    height: 45%;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.favButton{
+    background: #CC2031;
+    background: linear-gradient(90deg,rgba(204, 32, 49, 1) 0%, rgba(157, 18, 32, 1) 100%);
+    cursor: pointer;
+    width: 160px;
+    height: 40px;
+    border-radius: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border: none;
+    align-self: flex-end;
+    padding: 10px;
+    gap: 15px;
+    box-shadow: inset 0 4px 4px rgba(250,250,250, 0.25);
+}
+
+.favButton img{
+    width: 20px;
+}
+
+.favButton:hover{
+    transition: ease-in-out 300ms;
+    transform: scale(1.05);
+}
