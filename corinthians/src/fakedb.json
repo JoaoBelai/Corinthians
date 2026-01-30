@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Vampeta",
+    "year": 2000,
+    "position": "Volante",
+    "desc": "Raça, entrega e carisma. Vampeta foi peça-chave no meio-campo campeão mundial e marcou época com seu estilo irreverente.",
+    "image": "https://example.com/vampeta.png"
+  },
+  {
+    "name": "Rivellino",
+    "year": 1970,
+    "position": "Meio-Campista",
+    "desc": "Dono de um dos chutes mais potentes da história, Rivellino foi pura classe e genialidade. Liderou o Corinthians nos anos 70 e virou símbolo de talento e identificação com a Fiel.",
+    "image": "https://example.com/rivellino.png"
+  },
+  {
+    "name": "Cássio",
+    "year": 2010,
+    "position": "Goleiro",
+    "desc": "Gigante em decisões, Cássio foi herói da Libertadores e do Mundial de 2012. Um dos maiores ídolos da história.",
+    "image": "https://example.com/cassio.png"
+  },
+  {
+    "name": "Basílio",
+    "year": 1970,
+    "position": "Atacante",
+    "desc": "Autor do gol que acabou com o jejum de 23 anos, Basílio entrou para a eternidade. Um nome que representa alívio, emoção e história pura no Corinthians.",
+    "image": "https://example.com/basilio.png"
+  },
+  {
+    "name": "Renato Augusto",
+    "year": 2020,
+    "position": "Meio-Campista",
+    "desc": "Craque técnico e líder, Renato Augusto comandou o meio-campo com inteligência. Referência técnica da equipe.",
+    "image": "https://example.com/renato-augusto.png"
+  },
+  {
+    "name": "Zenon",
+    "year": 1980,
+    "position": "Meio-Campista",
+    "desc": "Cérebro do meio-campo, Zenon era dono de passes precisos e chutes certeiros. Fundamental nas conquistas da década de 80.",
+    "image": "https://example.com/zenon.png"
+  },
+  {
+    "name": "Ronaldo Fenômeno",
+    "year": 2010,
+    "position": "Atacante",
+    "desc": "O Fenômeno parou o país com sua chegada. Decisivo em títulos e símbolo de uma das maiores contratações da história.",
+    "image": "https://example.com/ronaldo.png"
+  },
+  {
+    "name": "Dida",
+    "year": 2000,
+    "position": "Goleiro",
+    "desc": "Seguro e decisivo, Dida foi essencial no Mundial de 2000. Um dos maiores goleiros a vestir a camisa do Corinthians.",
+    "image": "https://example.com/dida.png"
+  },
+  {
+    "name": "Biro-Biro",
+    "year": 1980,
+    "position": "Atacante",
+    "desc": "Carisma, drible e alegria em campo. Biro-Biro conquistou a Fiel com seu estilo irreverente e participação em momentos históricos.",
+    "image": "https://example.com/biro-biro.png"
+  },
+  {
+    "name": "Gil",
+    "year": 2020,
+    "position": "Zagueiro",
+    "desc": "Experiente e seguro, Gil foi pilar defensivo em grandes campanhas. Liderança silenciosa dentro e fora de campo.",
+    "image": "https://example.com/gil.png"
+  },
+  {
+    "name": "Sócrates",
+    "year": 1980,
+    "position": "Meio-Campista",
+    "desc": "O Doutor foi muito mais que um craque. Líder da Democracia Corinthiana, uniu futebol refinado, inteligência e personalidade marcante.",
+    "image": "https://example.com/socrates.png"
+  },
+  {
+    "name": "Edílson Capetinha",
+    "year": 2000,
+    "position": "Atacante",
+    "desc": "Habilidoso e provocador, Edílson decidiu jogos importantes. Protagonista no Mundial de 2000, virou ídolo da Fiel.",
+    "image": "https://example.com/edilson.png"
+  },
+  {
+    "name": "Wladimir",
+    "year": 1970,
+    "position": "Lateral-Esquerdo",
+    "desc": "Recordista de jogos pelo clube, Wladimir simboliza lealdade e regularidade. Um dos maiores laterais da história do Corinthians.",
+    "image": "https://example.com/wladimir.png"
+  },
+  {
+    "name": "Paulinho",
+    "year": 2010,
+    "position": "Meio-Campista",
+    "desc": "Motor do meio-campo, Paulinho foi decisivo em jogos grandes. Símbolo de força e gols importantes na era vencedora.",
+    "image": "https://example.com/paulinho.png"
+  },
+  {
+    "name": "Viola",
+    "year": 1990,
+    "position": "Atacante",
+    "desc": "O artilheiro decisivo dos anos 90. Viola brilhou em finais e foi fundamental nas grandes conquistas da década.",
+    "image": "https://example.com/viola.png"
+  },
+  {
+    "name": "Fagner",
+    "year": 2020,
+    "position": "Lateral-Direito",
+    "desc": "Intenso e competitivo, Fagner é símbolo de raça. Um dos laterais mais identificados com o clube na era recente.",
+    "image": "https://example.com/fagner.png"
+  },
+  {
+    "name": "Casagrande",
+    "year": 1980,
+    "position": "Atacante",
+    "desc": "Atacante forte e decisivo, Casagrande marcou época nos anos 80. Foi peça importante em títulos e símbolo de um Corinthians rebelde e vencedor.",
+    "image": "https://example.com/casagrande.png"
+  },
+  {
+    "name": "Zé Maria",
+    "year": 1970,
+    "position": "Lateral-Direito",
+    "desc": "O Super Zé foi sinônimo de raça e liderança. Capitão histórico, marcou época pela entrega em campo e pela forte ligação com a torcida corinthiana.",
+    "image": "https://example.com/ze-maria.png"
+  },
+  {
+    "name": "Jadson",
+    "year": 2010,
+    "position": "Meio-Campista",
+    "desc": "Técnica e inteligência definiram Jadson. Fundamental nos títulos brasileiros, sempre decisivo com gols e assistências.",
+    "image": "https://example.com/jadson.png"
+  },
+  {
+    "name": "Tévez",
+    "year": 2000,
+    "position": "Atacante",
+    "desc": "Craque argentino que conquistou a torcida com raça e talento. Líder do Brasileiro de 2005, deixou sua marca no clube.",
+    "image": "https://example.com/tevez.png"
+  },
+  {
+    "name": "Rincón",
+    "year": 1990,
+    "position": "Volante",
+    "desc": "Capitão do primeiro Mundial, Rincón foi sinônimo de força e liderança. Dominante no meio-campo, virou referência internacional.",
+    "image": "https://example.com/rincon.png"
+  },
+  {
+    "name": "Emerson Sheik",
+    "year": 2010,
+    "position": "Atacante",
+    "desc": "Decisivo e carismático, Sheik brilhou em clássicos e finais. Nome marcado para sempre na Libertadores de 2012.",
+    "image": "https://example.com/emerson-sheik.png"
+  },
+  {
+    "name": "Neto",
+    "year": 1990,
+    "position": "Meio-Campista",
+    "desc": "Ídolo do primeiro Brasileiro do clube, Neto foi decisivo e provocador. Dono de chutes fortes e personalidade marcante.",
+    "image": "https://example.com/neto.png"
+  },
+  {
+    "name": "Yuri Alberto",
+    "year": 2020,
+    "position": "Atacante",
+    "desc": "Jovem e decisivo, Yuri se destacou pela entrega e gols importantes. Rapidamente ganhou o carinho da torcida.",
+    "image": "https://example.com/yuri-alberto.png"
+  },
+  {
+    "name": "Ronaldo Giovanelli",
+    "year": 1990,
+    "position": "Goleiro",
+    "desc": "Carismático e decisivo, Ronaldo foi um dos grandes goleiros da história do clube. Símbolo de confiança e liderança nos anos 90.",
+    "image": "https://example.com/ronaldo-giovanelli.png"
+  },
+  {
+    "name": "Guerrero",
+    "year": 2010,
+    "position": "Atacante",
+    "desc": "Autor do gol do Mundial de 2012, Guerrero entrou para a história. Raçudo e decisivo, foi herói em momentos eternos.",
+    "image": "https://example.com/guerrero.png"
+  },
+  {
+    "name": "Zidanilo",
+    "year": 2010,
+    "position": "Lateral-Direito",
+    "desc": "Polivalente e confiável, Zidanilo foi importante na campanha da Libertadores. Sempre lembrado pela entrega em campo.",
+    "image": "https://example.com/zidanilo.png"
+  },
+  {
+    "name": "Roger Guedes",
+    "year": 2020,
+    "position": "Atacante",
+    "desc": "Velocidade e gols importantes marcaram sua passagem. Destaque ofensivo e decisivo em momentos cruciais.",
+    "image": "https://example.com/roger-guedes.png"
+  },
+  {
+    "name": "Marcelinho Carioca",
+    "year": 1990,
+    "position": "Meio-Campista",
+    "desc": "O Pé de Anjo encantou a Fiel com faltas perfeitas e muita raça. Ídolo eterno, foi decisivo em títulos e no Mundial de 2000.",
+    "image": "https://example.com/marcelinho.png"
+  },
+  {
+    "name": "Ralf",
+    "year": 2010,
+    "position": "Volante",
+    "desc": "Discreto e eficiente, Ralf foi o equilíbrio do time campeão. Essencial na proteção da defesa e no jogo coletivo.",
+    "image": "https://example.com/ralf.png"
+  }
+]

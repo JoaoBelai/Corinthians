@@ -172,7 +172,36 @@
     width: 20px;
 }
 
+.noFavButton{
+    background: none;
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border: none;
+    align-self: flex-end;
+    padding: 10px;
+    gap: 10px;
+    border: 2px solid #fff;
+}
+
+.noFavButton img{
+    width: 20px;
+}
+
 .favButton:hover{
+    transition: ease-in-out 300ms;
+    transform: scale(1.05);
+}
+
+.noFavButton:hover{
     transition: ease-in-out 300ms;
     transform: scale(1.05);
 }
