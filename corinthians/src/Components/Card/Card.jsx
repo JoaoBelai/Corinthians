@@ -1,13 +1,13 @@
 import './Card.css'
 import { useState } from 'react';
-import Coracao from '../../assets/Icons/coracao.png'
-import CoracaoVazio from '../../assets/Icons/coracaoVazio.png'
-import Anos70 from '../../assets/Images/anos70.png';
-import Anos80 from '../../assets/Images/anos80.png';
-import Anos90 from '../../assets/Images/anos90.png';
-import Anos2000 from '../../assets/Images/anos2000.png';
-import Anos2010 from '../../assets/Images/anos2010.png';
-import Anos2020 from '../../assets/Images/anos2020.png';
+import Coracao from '../../../public/assets/Icons/coracao.png'
+import CoracaoVazio from '../../../public/assets/Icons/coracaoVazio.png'
+import Anos70 from '../../../public/assets/Images/anos70.png';
+import Anos80 from '../../../public/assets/Images/anos80.png';
+import Anos90 from '../../../public/assets/Images/anos90.png';
+import Anos2000 from '../../../public/assets/Images/anos2000.png';
+import Anos2010 from '../../../public/assets/Images/anos2010.png';
+import Anos2020 from '../../../public/assets/Images/anos2020.png';
 
 const Shirt = (year) => {
     if (year === 1970){

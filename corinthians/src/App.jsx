@@ -1,7 +1,6 @@
 import './App.css'
 import Players from './fakedb.json'
 import Card from './Components/Card/Card.jsx';
-import Marcelinho from './assets/Images/marcelinho.png'
 
 function App() {
 
@@ -12,7 +11,7 @@ return (
                 <Card
                     name = {player.name}
                     year = {player.year}
-                    image = {Marcelinho}
+                    image = {player.image}
                     desc = {player.desc}
                     position = {player.position}
                 />
