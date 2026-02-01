@@ -25,9 +25,7 @@ const Shirt = (year) => {
     }
 }
 
-let contador = 0
-
-function Card({name, desc, year, position, image}){
+function Card({name, desc, year, position, image, onFavChange}){
     const [isFlipped, setIsFliepped] = useState(false);
     const [isFav, setIsFav] = useState(false);
 
@@ -37,15 +35,10 @@ function Card({name, desc, year, position, image}){
 
     const handleFav = (e) =>{
         e.stopPropagation()
-        setIsFav(!isFav);
 
-        if (isFav == false){
-            contador += 1
-        } else {
-            contador -= 1
-        };
-
-        console.log(contador);
+        const novoValor = !isFav;
+        setIsFav(novoValor)
+        onFavChange(novoValor);
     }
 
     return(

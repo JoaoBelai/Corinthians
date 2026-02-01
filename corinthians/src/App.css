@@ -3,9 +3,37 @@ main{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 100px;
+  padding: 60px;
   background: #2A2A2A;
   background: linear-gradient(180deg,rgba(42, 42, 42, 1) 0%, rgba(60, 60, 60, 1) 100%);
+  gap: 100px;
+}
+
+.imageCarousel{
+  margin-top: 15px;
+  width: 92vw;
+  height: 770px;
+}
+
+.imageCarousel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.legends{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+
+.titleLegends{
+  font-size: 48px;
+  font-weight: 700;
+  color: #fff;
+  align-self: flex-start;
 }
 
 .cards{
@@ -15,6 +43,7 @@ main{
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
-  padding: 100px;
   gap: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
