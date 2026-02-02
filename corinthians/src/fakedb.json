@@ -1,213 +1,255 @@
-
 [
   {
     "name": "Vampeta",
     "year": 2000,
     "position": "Volante",
-    "desc": "Raça, entrega e carisma. Vampeta foi peça-chave no meio-campo campeão mundial e marcou época com seu estilo irreverente.",
+    "desc": "O Velho Vamp! Personificação da irreverência e da técnica refinada. O Campeão Mundial foi o motor de um meio-campo histórico, marcando forte e armando com classe. Suas cambalhotas em Brasília eternizaram a alma corinthiana.",
     "image": "../public/assets/Images/vampeta.png"
   },
   {
     "name": "Rivellino",
     "year": 1970,
     "position": "Meio-Campista",
-    "desc": "Dono de um dos chutes mais potentes da história, Rivellino foi pura classe e genialidade. Liderou o Corinthians nos anos 70 e virou símbolo de talento e identificação com a Fiel.",
+    "desc": "O Reizinho do Parque e dono da Patada Atômica. Inventor do elástico, carregou o piano nos anos difíceis com uma genialidade nunca vista antes. Sua canhota mágica é, até hoje, referência mundial de talento e potência.",
     "image": "../public/assets/Images/rivellino.png"
   },
   {
     "name": "Cássio",
     "year": 2010,
     "position": "Goleiro",
-    "desc": "Gigante em decisões, Cássio foi herói da Libertadores e do Mundial de 2012. Um dos maiores ídolos da história.",
+    "desc": "O Gigante da Fiel. Operou o milagre contra o Vasco e parou o ataque do Chelsea no Mundial. O maior goleiro da nossa história, decisivo em pênaltis e um líder que nunca se escondeu nas horas difíceis. Lenda viva.",
     "image": "../public/assets/Images/cassio.png"
+  },
+  {
+    "name": "Ángel Romero",
+    "year": 2020,
+    "position": "Atacante",
+    "desc": "Cristiano Romero, O Estrangeiro Mais Corinthiano da História! Encerrou seu ciclo levantando as taças de 2025. Maior artilheiro da Arena e símbolo máximo de entrega. Saiu como lenda, deixando um legado de sangue, suor e muitos títulos.",
+    "image": "../public/assets/Images/romero.png"
+  },
+  {
+    "name": "Chicão",
+    "year": 2000,
+    "position": "Zagueiro",
+    "desc": "O Xerife da Fiel! Chegou na hora mais difícil e liderou a reconstrução do clube. Zagueiro artilheiro, cobrador de faltas e capitão que ergueu taças com o sangue frio de um gigante. Respeito máximo.",
+    "image": "../public/assets/Images/chicao.png"
   },
   {
     "name": "Basílio",
     "year": 1970,
     "position": "Atacante",
-    "desc": "Autor do gol que acabou com o jejum de 23 anos, Basílio entrou para a eternidade. Um nome que representa alívio, emoção e história pura no Corinthians.",
+    "desc": "O Pé de Anjo de 77. O homem escolhido pelo destino para fazer o gol mais sofrido e importante da história, libertando o grito preso na garganta de milhões após 23 anos. Basílio não é apenas um jogador, é uma religião.",
     "image": "../public/assets/Images/basilio.png"
   },
   {
     "name": "Renato Augusto",
     "year": 2020,
     "position": "Meio-Campista",
-    "desc": "Craque técnico e líder, Renato Augusto comandou o meio-campo com inteligência. Referência técnica da equipe.",
+    "desc": "Reinato, o maestro soberano. Trouxe uma elegância europeia ao meio-campo alvinegro. Com visão de jogo sobrenatural e chutes colocados, foi o cérebro pensante por trás do Hexa e de campanhas inesquecíveis.",
     "image": "../public/assets/Images/renato augusto.png"
   },
   {
     "name": "Zenon",
     "year": 1980,
     "position": "Meio-Campista",
-    "desc": "Cérebro do meio-campo, Zenon era dono de passes precisos e chutes certeiros. Fundamental nas conquistas da década de 80.",
+    "desc": "A classe vestida de camisa 10 na Democracia Corinthiana. Dono de lançamentos milimétricos e uma inteligência tática rara, formou um dos meios-de-campo mais técnicos do futebol brasileiro ao lado de Sócrates e Biro-Biro.",
     "image": "../public/assets/Images/zenon.png"
   },
   {
     "name": "Ronaldo Fenômeno",
     "year": 2010,
     "position": "Atacante",
-    "desc": "O Fenômeno parou o país com sua chegada. Decisivo em títulos e símbolo de uma das maiores contratações da história.",
+    "desc": "Um Fenômeno que escolheu o bando de loucos. Derrubou o alambrado na comemoração e provou ao mundo que ainda era o melhor. Campeão invicto, goleador nato e responsável por mudar o patamar do clube para sempre.",
     "image": "../public/assets/Images/fenomeno.png"
   },
   {
     "name": "Dida",
     "year": 2000,
     "position": "Goleiro",
-    "desc": "Seguro e decisivo, Dida foi essencial no Mundial de 2000. Um dos maiores goleiros a vestir a camisa do Corinthians.",
+    "desc": "A Muralha de Gelo. Frio, calculista e imbatível em pênaltis. Sua atuação no Mundial de 2000 contra o Vasco foi antológica. Um goleiro que passava segurança absoluta para a zaga e terror para os batedores adversários.",
     "image": "../public/assets/Images/dida.png"
   },
   {
     "name": "Biro-Biro",
     "year": 1980,
-    "position": "Atacante",
-    "desc": "Carisma, drible e alegria em campo. Biro-Biro conquistou a Fiel com seu estilo irreverente e participação em momentos históricos.",
+    "position": "Volante",
+    "desc": "O pulmão incansável da Fiel. Corria por ele e pelo time todo, decidindo clássicos com gols improváveis (como aquele de canela). Símbolo máximo de carisma, entrega física e identificação com a arquibancada.",
     "image": "../public/assets/Images/birobiro.png"
   },
   {
     "name": "Gil",
     "year": 2020,
     "position": "Zagueiro",
-    "desc": "Experiente e seguro, Gil foi pilar defensivo em grandes campanhas. Liderança silenciosa dentro e fora de campo.",
+    "desc": "Zagueiro de Seleção e xerife da área. No auge, era intransponível pelo chão e soberano pelo alto. Pilar da melhor defesa da década, Gil representou a segurança que permitiu ao ataque brilhar nas conquistas nacionais.",
     "image": "../public/assets/Images/gil.png"
   },
   {
     "name": "Sócrates",
     "year": 1980,
     "position": "Meio-Campista",
-    "desc": "O Doutor foi muito mais que um craque. Líder da Democracia Corinthiana, uniu futebol refinado, inteligência e personalidade marcante.",
+    "desc": "O Doutor e Magrão. Muito mais que um craque, um líder político e social. Com seus toques de calcanhar e visão periférica, comandou a Democracia Corinthiana e se tornou um ícone mundial de inteligência e futebol arte.",
     "image": "../public/assets/Images/socrates.png"
   },
   {
     "name": "Edílson Capetinha",
     "year": 2000,
     "position": "Atacante",
-    "desc": "Habilidoso e provocador, Edílson decidiu jogos importantes. Protagonista no Mundial de 2000, virou ídolo da Fiel.",
+    "desc": "O Capetinha endiabrado! As embaixadinhas no Morumbi humilharam o rival, e seu talento absurdo no Mundial de 2000 contra o Real Madrid mostrou que ele não tinha medo de ninguém. Liso, provocador e decisivo.",
     "image": "../public/assets/Images/capetinha.png"
   },
   {
     "name": "Wladimir",
     "year": 1970,
     "position": "Lateral-Esquerdo",
-    "desc": "Recordista de jogos pelo clube, Wladimir simboliza lealdade e regularidade. Um dos maiores laterais da história do Corinthians.",
+    "desc": "O Recordista onipresente. Ninguém honrou o manto alvinegro mais vezes que ele (806 jogos). Raça, regularidade e lealdade definem Wladimir, um gigante que atravessou décadas defendendo a lateral esquerda do Timão.",
     "image": "../public/assets/Images/wladimir.png"
+  },
+  {
+    "name": "Hugo Souza",
+    "year": 2020,
+    "position": "Goleiro",
+    "desc": "Neneca, o Paredão de 2025! O Rei dos Pênaltis que parou o Palmeiras na final do Paulista e operou milagres na campanha da Copa do Brasil. Honrou a mística de goleiros alvinegros fechando o gol na Supercopa Rei.",
+    "image": "../public/assets/Images/hugo.png"
   },
   {
     "name": "Paulinho",
     "year": 2010,
     "position": "Meio-Campista",
-    "desc": "Motor do meio-campo, Paulinho foi decisivo em jogos grandes. Símbolo de força e gols importantes na era vencedora.",
+    "desc": "O volante artilheiro e elemento surpresa. Seu gol contra o Vasco na Libertadores fez o Pacaembu tremer. Subiu no alambrado para abraçar a Fiel e trouxe a América e o Mundo para o Parque São Jorge com força e chegada.",
     "image": "../public/assets/Images/paulinho.png"
   },
   {
     "name": "Viola",
     "year": 1990,
     "position": "Atacante",
-    "desc": "O artilheiro decisivo dos anos 90. Viola brilhou em finais e foi fundamental nas grandes conquistas da década.",
+    "desc": "A raça dos anos 90. Decidiu o título de 88 com carrinho na bola e imortalizou a comemoração imitando um porco. Viola era a cara da provocação sadia e do faro de gol que a torcida tanto ama.",
     "image": "../public/assets/Images/viola.png"
   },
   {
     "name": "Fagner",
-    "year": 2020,
+    "year": 2010,
     "position": "Lateral-Direito",
-    "desc": "Intenso e competitivo, Fagner é símbolo de raça. Um dos laterais mais identificados com o clube na era recente.",
+    "desc": "Cria do Terrão e pitbull da lateral. Um dos jogadores mais competitivos que já pisaram na Arena. Defende com ferocidade e apoia com qualidade. Símbolo de amor à camisa e regularidade em alto nível por anos.",
     "image": "../public/assets/Images/fagner.png"
   },
   {
     "name": "Casagrande",
     "year": 1980,
     "position": "Atacante",
-    "desc": "Atacante forte e decisivo, Casagrande marcou época nos anos 80. Foi peça importante em títulos e símbolo de um Corinthians rebelde e vencedor.",
+    "desc": "Casão, o gigante rebelde. Parceiro ideal de Sócrates, unia força física, técnica e ideologia. Representou a paixão do torcedor dentro de campo, jogando com a alma e sendo vital no bicampeonato paulista da Democracia.",
     "image": "../public/assets/Images/casagrande.png"
   },
   {
     "name": "Zé Maria",
     "year": 1970,
     "position": "Lateral-Direito",
-    "desc": "O Super Zé foi sinônimo de raça e liderança. Capitão histórico, marcou época pela entrega em campo e pela forte ligação com a torcida corinthiana.",
+    "desc": "O Super Zé da camisa ensanguentada. A imagem dele voltando a campo ferido resume o que é ser Corinthians. Um líder nato, capitão que levantou taças históricas e ensinou a todos o significado da palavra raça.",
     "image": "../public/assets/Images/ze maria.png"
+  },
+  {
+    "name": "Memphis Depay",
+    "year": 2020,
+    "position": "Atacante",
+    "desc": "O Holandês da Fiel! Trouxe a magia da Europa para Itaquera. Decisivo e genial, formou uma dupla letal no ataque e foi o protagonista técnico das conquistas do Paulista e da Copa do Brasil de 2025. Ídolo mundial e corinthiano.",
+    "image": "../public/assets/Images/memphis.png"
   },
   {
     "name": "Jadson",
     "year": 2010,
     "position": "Meio-Campista",
-    "desc": "Técnica e inteligência definiram Jadson. Fundamental nos títulos brasileiros, sempre decisivo com gols e assistências.",
+    "desc": "Magic Jadson, o garçom dos títulos. Sua parceria com Renato Augusto foi sinfônica. Especialista em bolas paradas e chutes de fora da área, foi fundamental para ditar o ritmo do Hexa e de tantas outras vitórias.",
     "image": "../public/assets/Images/jadson.png"
   },
   {
     "name": "Tévez",
     "year": 2000,
     "position": "Atacante",
-    "desc": "Craque argentino que conquistou a torcida com raça e talento. Líder do Brasileiro de 2005, deixou sua marca no clube.",
+    "desc": "Carlitos, o argentino mais louco do bando. Jogou com a raça de um corinthiano de arquibancada. Com sua sambadinha e entrega absurda, carregou o time nas costas rumo ao título Brasileiro de 2005. Ídolo eterno.",
     "image": "../public/assets/Images/tevez.png"
+  },
+  {
+    "name": "Rodrigo Garro",
+    "year": 2020,
+    "position": "Meio-Campista",
+    "desc": "O Maestro da Tríplice Coroa! O camisa 10 argentino que joga com a alma. Visão de jogo privilegiada e a raça que a torcida exige. Foi o cérebro pensante que regeu o time nas conquistas estaduais e nacionais.",
+    "image": "../public/assets/Images/garro.png"
   },
   {
     "name": "Rincón",
     "year": 1990,
     "position": "Volante",
-    "desc": "Capitão do primeiro Mundial, Rincón foi sinônimo de força e liderança. Dominante no meio-campo, virou referência internacional.",
+    "desc": "O Capitão que o mundo respeitou. Um colosso no meio-campo, aliando força física bruta e técnica apurada. Ergueu a primeira taça do Mundial de Clubes e colocou ordem na casa com sua liderança imponente.",
     "image": "../public/assets/Images/rincon.png"
   },
   {
     "name": "Emerson Sheik",
     "year": 2010,
     "position": "Atacante",
-    "desc": "Decisivo e carismático, Sheik brilhou em clássicos e finais. Nome marcado para sempre na Libertadores de 2012.",
+    "desc": "O herói louco da Libertadores. Fez os dois gols da final contra o Boca, mordeu a mão de rival e nunca pipocou em jogo grande. Sheik nasceu para jogar decisões pelo Corinthians. O terror dos adversários.",
     "image": "../public/assets/Images/sheik.png"
   },
   {
     "name": "Neto",
     "year": 1990,
     "position": "Meio-Campista",
-    "desc": "Ídolo do primeiro Brasileiro do clube, Neto foi decisivo e provocador. Dono de chutes fortes e personalidade marcante.",
+    "desc": "O Xodó da Fiel. Marrento, genial e decisivo. Sua canhota era uma arma letal em faltas e escanteios. Carregou o time nas costas no primeiro título Brasileiro em 1990, criando uma ligação eterna com a torcida.",
     "image": "../public/assets/Images/neto.png"
+  },
+  {
+    "name": "Luizão",
+    "year": 2000,
+    "position": "Atacante",
+    "desc": "O Artilheiro que jogava com a alma! Matador nato, brigava por cada centímetro de campo com uma raça assustadora. Recordista de gols e peça fundamental na conquista do primeiro Mundial. Um gigante.",
+    "image": "../public/assets/Images/luizao.png"
   },
   {
     "name": "Yuri Alberto",
     "year": 2020,
     "position": "Atacante",
-    "desc": "Jovem e decisivo, Yuri se destacou pela entrega e gols importantes. Rapidamente ganhou o carinho da torcida.",
+    "desc": "O Artilheiro das Decisões! Marcou o gol do título na final da Copa do Brasil de 2025 e lacrou o caixão do Flamengo na Supercopa Rei de 2026. Superou críticas com raça e virou o homem-gol de uma Era Vitoriosa.",
     "image": "../public/assets/Images/yuri.png"
   },
   {
     "name": "Ronaldo Giovanelli",
     "year": 1990,
     "position": "Goleiro",
-    "desc": "Carismático e decisivo, Ronaldo foi um dos grandes goleiros da história do clube. Símbolo de confiança e liderança nos anos 90.",
+    "desc": "O Roqueiro do Gol. Ágil, espalhafatoso e apaixonado pelo clube. Fez defesas impossíveis nos anos 90 e personificou o torcedor em campo. Sua liderança e defesas milagrosas garantiram títulos suados e inesquecíveis.",
     "image": "../public/assets/Images/ronaldo.png"
   },
   {
     "name": "Guerrero",
     "year": 2010,
     "position": "Atacante",
-    "desc": "Autor do gol do Mundial de 2012, Guerrero entrou para a história. Raçudo e decisivo, foi herói em momentos eternos.",
+    "desc": "O Artilheiro do Mundo. Sua cabeçada contra o Chelsea está gravada na retina de todo corinthiano. Um centroavante clássico, que segurava a bola, brigava na frente e nos deu a maior glória internacional da história.",
     "image": "../public/assets/Images/guerrero.png"
   },
   {
     "name": "Zidanilo",
     "year": 2010,
-    "position": "Lateral-Direito",
-    "desc": "Polivalente e confiável, Zidanilo foi importante na campanha da Libertadores. Sempre lembrado pela entrega em campo.",
+    "position": "Meio-Campista",
+    "desc": "A lenda que nunca tremeu. Zidanilo jogava de terno, com uma calma irritante para os rivais. Decisivo em clássicos, Libertadores e Mundial. O homem dos gols importantes e da canhota que limpava o lance com classe.",
     "image": "../public/assets/Images/zidanilo.png"
   },
+  
   {
     "name": "Roger Guedes",
     "year": 2020,
     "position": "Atacante",
-    "desc": "Velocidade e gols importantes marcaram sua passagem. Destaque ofensivo e decisivo em momentos cruciais.",
+    "desc": "O Artilheiro da Neo Química Arena. Viveu uma fase iluminada, marcando golaços e decidindo jogos sozinho. Rápido, habilidoso e com faro de gol apurado, foi o grande destaque ofensivo de sua passagem.",
     "image": "../public/assets/Images/rogerguedes.png"
   },
   {
     "name": "Marcelinho Carioca",
     "year": 1990,
     "position": "Meio-Campista",
-    "desc": "O Pé de Anjo encantou a Fiel com faltas perfeitas e muita raça. Ídolo eterno, foi decisivo em títulos e no Mundial de 2000.",
+    "desc": "O Pé de Anjo, o maior vencedor. Ninguém bateu na bola como ele. Mestre das faltas, assistências e gols decisivos. Sua dedicação nos treinos e amor ao clube o transformaram no jogador mais vitorioso da nossa história.",
     "image": "../public/assets/Images/marcelinho.png"
   },
   {
     "name": "Ralf",
     "year": 2010,
     "position": "Volante",
-    "desc": "Discreto e eficiente, Ralf foi o equilíbrio do time campeão. Essencial na proteção da defesa e no jogo coletivo.",
+    "desc": "O cão de guarda leal. Ralf nunca foi expulso vestindo a camisa do Corinthians, mesmo sendo um monstro na marcação. Protegeu a defesa como ninguém, garantindo a solidez necessária para o time empilhar taças.",
     "image": "../public/assets/Images/ralf.png"
   }
 ]

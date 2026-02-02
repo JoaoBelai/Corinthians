@@ -25,20 +25,14 @@ const Shirt = (year) => {
     }
 }
 
-function Card({name, desc, year, position, image, onFavChange}){
-    const [isFlipped, setIsFliepped] = useState(false);
-    const [isFav, setIsFav] = useState(false);
-
+function Card({name, desc, year, position, image, isFavorited, onToggleFav, onToggleFlip, isFlipped}){
     const handleFlip = () =>{
-        setIsFliepped(!isFlipped);
+        onToggleFlip()
     };
 
     const handleFav = (e) =>{
         e.stopPropagation()
-
-        const novoValor = !isFav;
-        setIsFav(novoValor)
-        onFavChange(novoValor);
+        onToggleFav()
     }
 
     return(
@@ -68,9 +62,9 @@ function Card({name, desc, year, position, image, onFavChange}){
 
                         <p className='playerDesc'>{desc}</p>
 
-                        <button onClick={handleFav} className={`${isFav ? "noFavButton": "favButton"}`}>
-                            {isFav ? "FAVORITO" : "FAVORITAR"} 
-                            <img src={isFav ? Coracao : CoracaoVazio} alt="ícone de coração" />
+                        <button onClick={handleFav} className={`${isFavorited ? "noFavButton": "favButton"}`}>
+                            {isFavorited ? "FAVORITO" : "FAVORITAR"} 
+                            <img src={isFavorited ? Coracao : CoracaoVazio} alt="ícone de coração" />
                         </button>
                     </article>
                 </div>
