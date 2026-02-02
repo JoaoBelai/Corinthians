@@ -78,3 +78,9 @@ nav{
     gap: 15px;
     box-shadow: inset 0 4px 4px rgba(250,250,250, 0.25);
 }
+
+.counterTitle{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+}

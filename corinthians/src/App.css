@@ -9,16 +9,36 @@ main{
   gap: 100px;
 }
 
-.imageCarousel{
-  margin-top: 15px;
+.carousel{
   width: 92vw;
   height: 770px;
+  margin-top: 15px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);
 }
 
-.imageCarousel img {
+.currentCarousel{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carouselImage{
+  min-width: 100%; 
+  height: 100%;
+  margin: 0;    
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.carouselImage img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
+  pointer-events: none;
 }
 
 .legends{
